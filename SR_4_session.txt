@@ -1,1 +1,1 @@
-Timestamp: 20190518_162026, Last epoch: 220, Total epochs: 500
+Timestamp: 20190525_203608, Last epoch: 2000, Total epochs: 2000
